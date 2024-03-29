@@ -393,20 +393,21 @@
             $(this).validate({
                 submitHandler: function( form ) {
                     var $form = $(form),
-                        str = $form.serialize(),
+                        // str = $form.serialize(),
                         loading = $('<div />', { 'class': 'loading' });
 
+                    var formData = new FormData();
                     $.ajax({
-                        type: "POST",
-                        url:  $form.attr('action'),
-                        data: str,
+                        type: "GET",
+                        url:  "/contact/submit",
+                        data: formData,
                         beforeSend: function () {
                             $form.find('.form-submit').append(loading);
                         },
                         success: function( msg ) {
                             var result, cls;                            
                             if ( msg === 'Success' ) {                                
-                                result = 'Message Sent Successfully To Email Administrator. ( You can change the email management a very easy way to get the message of customers in the user manual )';
+                                result = 'Message Sent Successfully.';
                                 cls = 'msg-success';
                             } else {
                                 result = 'Error sending email.';

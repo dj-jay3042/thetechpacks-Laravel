@@ -183,23 +183,23 @@
             <div class="iconbox-content">
                 <h3 class="title">Protect Business</h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                    Shield your enterprise with our fortified tech packs, fortifying defenses for your IT stronghold.
                 </p>
-                <div class="discover-more">
+                {{-- <div class="discover-more">
                     <a href="#">Discover More</a>
-                </div>
+                </div> --}}
             </div>
         </div>
-        <div class="iconbox-features hv-background-before active">
+        <div class="iconbox-features hv-background-before">
             <div class="iconbox-icon"><span class="icon-optimization"></span></div>
             <div class="iconbox-content">
                 <h3 class="title">Optimize IT systems</h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                    Elevate efficiency with our tailored tech packs, optimizing your IT infrastructure for peak performance.
                 </p>
-                <div class="discover-more">
+                {{-- <div class="discover-more">
                     <a href="#">Discover More</a>
-                </div>
+                </div> --}}
             </div>
         </div>
         <div class="iconbox-features hv-background-before">
@@ -207,11 +207,11 @@
             <div class="iconbox-content">
                 <h3 class="title">Digital Enablement</h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                    Empower your business digitally. Streamline processes, enhance experiences, thrive.
                 </p>
-                <div class="discover-more">
+                {{-- <div class="discover-more">
                     <a href="#">Discover More</a>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
@@ -234,13 +234,13 @@
                 <div class="flat-spacer" data-desktop="0" data-sdesktop="0" data-mobi="50" data-smobi="50"></div>
                 <div class="content">
                     <blockquote>
-                        Ut enim minim veniam quis nostrud exercitation ullamc and aliquip ex ea commodo consequat aute irure dolor innerem voluptate velit esse cillum.
+                        Revolutionize your IT infrastructure with our comprehensive Tech Packs, optimizing performance and fortifying security effortlessly.
                     </blockquote>
                     <div class="title d-lg-flex align-items-center">
-                        Over<span> 25 </span>years experience
+                        Over<span> 4 </span>years experience
                     </div>
                     <p>
-                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+                        From cutting-edge solutions to seamless integration, our Tech Packs empower businesses to thrive in the digital realm with confidence. Boost efficiency and stay ahead of the curve with our versatile Tech Packs, your key to digital success.
                     </p>
                 </div>
             </div>      
@@ -272,7 +272,7 @@
             <div class="content-counter hv-background-before">
                 <div class="icon-count"><span class="icon-observation"></span></div>
                 <div class="numb-count-wrap">
-                    <span class="numb-count" data-from="0" data-to="534" data-speed="2000" data-inviewport="yes">534</span>
+                    <span class="numb-count" data-from="0" data-to="23" data-speed="2000" data-inviewport="yes">23</span>
                 </div>
                 <div class="name-count">Skilled Experts</div>
             </div>
@@ -296,7 +296,7 @@
             <div class="f-text text-white">Are you ready for a better,</div>
             <div class="s-text text-white">More productive business?</div>
             <div class="flat-contact-now btn-linear hv-linear-gradient">
-                <a href="#" class="font-style linear-color border-corner">Contact Now<span class="icon-arrow-pointing-to-right"></span></a>
+                <a href="/connect" class="font-style linear-color border-corner">Contact Now<span class="icon-arrow-pointing-to-right"></span></a>
             </div>
         </div>
         <div class="circle-border circle-border1 none-767"></div>
@@ -468,7 +468,7 @@
         </div>
     </div><!-- flat-case-study -->
 </div><!-- background-two-section -->
-<section class="testimonial testimonial-style1">
+{{-- <section class="testimonial testimonial-style1">
     <div class="container">
         <div class="title-section text-center">
             <p class="sub-title">Testimonial</p>
@@ -482,8 +482,8 @@
                             <div class="endorser d-sm-flex align-items-center">
                                 <div class="avatar"><img src="images/testimonial/02.jpg" alt="images"></div>
                                 <div class="info">
-                                    <h3 class="name">Kang Qiang</h3>
-                                    <p class="role">Marketing Officer</p>
+                                    <h3 class="name">Chandni Chodvadiya</h3>
+                                    <p class="role">HR Manager</p>
                                 </div>
                             </div>
                             <div class="flat-spacer" data-desktop="26" data-sdesktop="26" data-mobi="15" data-smobi="15"></div>
@@ -523,7 +523,7 @@
             </div>
         </div>
     </div>
-</section><!-- testimonial -->
+</section><!-- testimonial --> --}}
 <section class="get-in-touch-type3 get-in-touch-style1 parallax parallax4 position-relative">
     <div class="section-overlay"></div>
     <div class="container">
@@ -542,11 +542,11 @@
                 </div>
             </div>
             <div class="col-lg-6 col-12">
-                <form id="contactform" action="./contact/contact-process.php" method="post" class="form-git2 form-submit">
-                    <h3 class="title text-center">Get in touch We’ll help your business</h3>
+                <form id="contactform" action="#" method="post" class="form-git2 form-submit">
+                    <h3 class="title text-center">Get in touch We'll help your business</h3>
                     <div class="text-wrap">
                         <div class="has-icon position-relative">
-                            <input type="text" name="firstname" id="firstname" value="" class="firstname" placeholder="Name here">
+                            <input type="text" name="name" id="firstname" value="" class="firstname" placeholder="Name here">
                             <span class="icon-user"></span>
                         </div>
                         <div class="has-icon position-relative">
@@ -563,7 +563,7 @@
         </div>
     </div>
 </section><!-- get-in-touch -->
-<div class="blog-post blog-post-style1">
+{{-- <div class="blog-post blog-post-style1">
     <div class="container">
         <div class="title-section text-center">
             <p class="sub-title">Blog Post</p>
@@ -623,5 +623,5 @@
             </div>
         </div>
     </div>
-</div><!-- blog-post -->
+</div><!-- blog-post --> --}}
 @endsection

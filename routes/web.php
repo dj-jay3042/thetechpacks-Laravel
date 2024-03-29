@@ -1,7 +1,9 @@
 <?php
 
+use App\Http\Controllers\ContactControllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
+Route::get('/contact/submit', [ContactController::class, 'handleContact']);
 Route::get('/', function () {
     return view('index');
 });

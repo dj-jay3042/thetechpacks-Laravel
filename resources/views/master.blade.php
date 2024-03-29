@@ -3,10 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Softo</title>
+    <title>The Tech Packs</title>
 
     <!-- Mobile Specific Metas-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Google Console Meta Tag -->
+    <meta name="google-site-verification" content="tljHlsLs9AToac-ZD01EKZYGziTOfnmTCZy_WyjgzBQ" />
 
     <!-- Bootstrap-->
     <link rel="stylesheet" href="stylesheet/bootstrap.css">
