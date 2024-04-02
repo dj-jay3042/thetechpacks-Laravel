@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>The Tech Packs</title>
+    <title>The Tech Packs | Software Development Company</title>
 
     <!-- Mobile Specific Metas-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
