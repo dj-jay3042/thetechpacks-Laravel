@@ -11,6 +11,9 @@
     <!-- Google Console Meta Tag -->
     <meta name="google-site-verification" content="tljHlsLs9AToac-ZD01EKZYGziTOfnmTCZy_WyjgzBQ" />
 
+    <!-- Meta description -->
+    <meta name="description" content="Experience the power of innovation with The Teck Packs. Our dedicated team of developers, designers, and strategists is committed to delivering customized IT solutions that propel your business forward. From tailored software development to building robust backend infrastructure and creating seamless digital experiences, we are your trusted partner in the digital realm. With a relentless focus on excellence and customer satisfaction, we ensure your organization harnesses the full potential of technology. Explore our comprehensive range of services and embark on a journey of innovation and success with The Teck Packs by your side.">
+
     <!-- Bootstrap-->
     <link rel="stylesheet" href="stylesheet/bootstrap.css">
 
