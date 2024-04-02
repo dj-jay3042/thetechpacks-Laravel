@@ -12,8 +12,8 @@
             <div class="breadcrumbs-wrap">
                 <h1 class="title">Contact Us</h1>
                 <ul class="breadcrumbs-inner">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="contact.html">Pages</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/connect">Pages</a></li>
                 </ul>
             </div>
         </div>

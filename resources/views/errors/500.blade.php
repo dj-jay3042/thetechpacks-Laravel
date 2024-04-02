@@ -1,156 +1,85 @@
 @extends('master')
 
-@section('services')
-    active
-@endsection
-
 @section('main')
 <div class="page-title parallax parallax1 position-relative clearfix">
     <div class="section-overlay"></div>
     <div class="container">
         <div class="breadcrumbs position-relative">
             <div class="breadcrumbs-wrap">
-                <h1 class="title">IT services</h1>
+                <h1 class="title">500</h1>
                 <ul class="breadcrumbs-inner">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/services">Services</a></li>
+                    <li><a href="#">Opps! Something went wrong.</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </div><!-- page-title -->
-<div class="flat-it-services flat-it-services-style4">
+<div class="flat-team-members mg-team-members">
     <div class="container">
+        <div class="title-section text-center">
+            <p class="sub-title">Our Experts</p>
+            <h2 class="flat-title">Let's meet with our<br> team members</h2>
+        </div>
         <div class="row">
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">01.</div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="team-members border-corner hv-background-before">
                     <div class="featured-post">
                         <div class="entry-image">
-                            <img src="images/services/09.jpg" alt="images">
+                            <a href="#"><img src="images/team-member/01.jpg" alt="images"></a>
+                            <div class="icon-work"><span class="icon-basketball"></span></div>
                         </div>
                     </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">IT helpdesk support</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
+                    <div class="info-content">
+                        <h3 class="name"><a href="#">Dong Yuhan</a></h3>
+                        <p class="role">DESIGNER</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">02.</div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="team-members border-corner hv-background-before">
                     <div class="featured-post">
                         <div class="entry-image">
-                            <img src="images/services/10.jpg" alt="images">
+                            <a href="#"><img src="images/team-member/02.jpg" alt="images"></a>
+                            <div class="icon-work"><span class="icon-wordpress"></span></div>
                         </div>
                     </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Managed IT</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
+                    <div class="info-content">
+                        <h3 class="name"><a href="#">Quan Zheng</a></h3>
+                        <p class="role">DEVELOPER</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">03.</div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="team-members border-corner hv-background-before">
                     <div class="featured-post">
                         <div class="entry-image">
-                            <img src="images/services/11.jpg" alt="images">
+                            <a href="#"><img src="images/team-member/03.jpg" alt="images"></a>
+                            <div class="icon-work"><span class="icon-basketball"></span></div>
                         </div>
                     </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Cyber security</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
+                    <div class="info-content">
+                        <h3 class="name"><a href="#">Peng Qigang</a></h3>
+                        <p class="role">FOUNDER</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">04.</div>
+            <div class="col-lg-3 col-md-6 col-12">
+                <div class="team-members border-corner hv-background-before">
                     <div class="featured-post">
                         <div class="entry-image">
-                            <img src="images/services/12.jpg" alt="images">
+                            <a href="#"><img src="images/team-member/04.jpg" alt="images"></a>
+                            <div class="icon-work"><span class="icon-wordpress"></span></div>
                         </div>
                     </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Business Reform</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">05.</div>
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="images/services/13.jpg" alt="images">
-                        </div>
-                    </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Hosting & cloud</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">06.</div>
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="images/services/14.jpg" alt="images">
-                        </div>
-                    </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Infrastructure Plan</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">07.</div>
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="images/services/15.jpg" alt="images">
-                        </div>
-                    </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">UI/UX Design</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">08.</div>
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="images/services/16.jpg" alt="images">
-                        </div>
-                    </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Apps Development</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="service-image-box2 hv-background-before">
-                    <div class="order-number">09.</div>
-                    <div class="featured-post">
-                        <div class="entry-image">
-                            <img src="images/services/17.jpg" alt="images">
-                        </div>
-                    </div>
-                    <div class="content-service">
-                        <h3 class="title"><a href="#">Desktop Computing</a></h3>
-                        <div class="link-arrow"><a href="#"><span class="icon-arrow-pointing-to-right"></span></a></div>
+                    <div class="info-content">
+                        <h3 class="name"><a href="#">Dong Yuhan</a></h3>
+                        <p class="role">QC. MANAGER</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div><!-- flat-it-services -->
+</div><!-- flat-team-members -->
 <div class="cta">
     <div class="container">
         <div class="row align-items-center">
@@ -169,7 +98,7 @@
         </div>
     </div>
 </div><!-- cta -->
-<div class="testimonial testimonial-style4">
+<div class="testimonial testimonial-style3">
     <div class="container">
         <div class="title-section text-center">
             <p class="sub-title">Testimonial</p>

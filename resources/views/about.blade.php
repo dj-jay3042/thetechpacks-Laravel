@@ -12,8 +12,8 @@
             <div class="breadcrumbs-wrap">
                 <h1 class="title">About Us</h1>
                 <ul class="breadcrumbs-inner">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about-us.html">About</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
                 </ul>
             </div>
         </div>
@@ -111,7 +111,7 @@
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
                                     </p>
                                 </div>
-                            </div>      
+                            </div>
                         </div>
                     </div><!-- who-we-are -->
                 </div>
@@ -197,7 +197,7 @@
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
                                     </p>
                                 </div>
-                            </div>      
+                            </div>
                         </div>
                     </div><!-- who-we-are -->
                 </div>
@@ -283,7 +283,7 @@
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
                                     </p>
                                 </div>
-                            </div>      
+                            </div>
                         </div>
                     </div><!-- who-we-are -->
                 </div>
@@ -369,13 +369,13 @@
                                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi utaliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit ess cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
                                     </p>
                                 </div>
-                            </div>      
+                            </div>
                         </div>
                     </div><!-- who-we-are -->
                 </div>
-            </div>     
+            </div>
         </div>
-    </div> 
+    </div>
 </div><!-- about-us -->
 <div class="flat-team-members mg-team-members">
     <div class="container">
@@ -562,7 +562,7 @@
                 </div>
             </div>
         </div>
-    </div> 
+    </div>
 </div><!-- testimonial -->
 <div class="partners partners-style2">
     <div class="container">
@@ -574,7 +574,7 @@
                     <img src="images/partners/03.png" alt="images">
                     <img src="images/partners/04.png" alt="images">
                     <img src="images/partners/05.png" alt="images">
-                    <img src="images/partners/06.png" alt="images">                        
+                    <img src="images/partners/06.png" alt="images">
                 </div>
             </div>
         </div>

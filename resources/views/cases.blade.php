@@ -12,8 +12,8 @@
             <div class="breadcrumbs-wrap">
                 <h1 class="title">Case Study</h1>
                 <ul class="breadcrumbs-inner">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="case-study.html">Case study</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/case-study">Case study</a></li>
                 </ul>
             </div>
         </div>

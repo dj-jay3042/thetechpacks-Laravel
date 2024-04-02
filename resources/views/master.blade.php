@@ -64,7 +64,7 @@
         <div class="container">
             <div class="flex-header d-flex">
                 <div id="logo" class="logo d-flex align-items-center justify-content-start">
-                    <a href="index.html" title="Logo"><img src="images/logo/01.png" data-width="168" data-height="38"
+                    <a href="/" title="Logo"><img src="images/logo/01.png" data-width="168" data-height="38"
                             alt="images" data-retina="images/logo/01@2x.png"></a>
                 </div>
                 <div class="content-menu d-flex align-items-center justify-content-end">

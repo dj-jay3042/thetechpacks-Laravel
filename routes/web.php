@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ContactControllers\ContactController;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/connect/submit', [ContactController::class, 'handleContact']);
@@ -21,4 +22,10 @@ Route::get('/about', function () {
 });
 Route::get('/connect', function () {
     return view('contact');
+});
+Route::get('/redirect-301', function () {
+    return new RedirectResponse('/', 301);
+});
+Route::get('/redirect-302', function () {
+    return new RedirectResponse('/', 302);
 });

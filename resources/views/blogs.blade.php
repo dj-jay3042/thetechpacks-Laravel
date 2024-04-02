@@ -12,8 +12,8 @@
             <div class="breadcrumbs-wrap">
                 <h1 class="title">Blog Post</h1>
                 <ul class="breadcrumbs-inner">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/blogs">Blog</a></li>
                 </ul>
             </div>
         </div>
@@ -40,7 +40,7 @@
                         </p>
                         <div class="flat-read-more bg-linear-gradient">
                             <a href="#">read more<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                        </div>                      
+                        </div>
                     </div>
                 </article><!-- main-post -->
                 <article class="main-post mg-blog">
@@ -60,7 +60,7 @@
                         </p>
                         <div class="flat-read-more bg-linear-gradient">
                             <a href="#">read more<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                        </div>                      
+                        </div>
                     </div>
                 </article><!-- main-post -->
                 <article class="main-post mg-blog">
@@ -80,7 +80,7 @@
                         </p>
                         <div class="flat-read-more bg-linear-gradient">
                             <a href="#">read more<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                        </div>                      
+                        </div>
                     </div>
                 </article><!-- main-post -->
                 <article class="main-post mg-blog">
@@ -100,7 +100,7 @@
                         </p>
                         <div class="flat-read-more bg-linear-gradient">
                             <a href="#">read more<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-                        </div>                      
+                        </div>
                     </div>
                 </article><!-- main-post -->
             </div>
@@ -148,7 +148,7 @@
                             <div class="block-inside border-corner hv-background-before">
                                 <a href="#">IT Management</a>
                             </div>
-                       </li> 
+                       </li>
                     </ul>
                 </div>
                 <div class="widget widget-recent-posts widget-bg">
