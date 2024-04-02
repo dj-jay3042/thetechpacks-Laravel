@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="rev-slider/css/navigation.css">
     <link rel="stylesheet" href="rev-slider/css/settings.css">
 
-    <link href="icon/favicon.ico" rel="shortcut icon">
+    <link href="/favicon.png" rel="icon" type="image/png">
 </head>
 
 <body class="counter-scroll">
@@ -64,7 +64,7 @@
         <div class="container">
             <div class="flex-header d-flex">
                 <div id="logo" class="logo d-flex align-items-center justify-content-start">
-                    <a href="/" title="Logo"><img src="images/logo/01.png" data-width="168" data-height="38"
+                    <a href="/" title="Logo"><img src="images/logo/logo.png" data-width="168" data-height="38"
                             alt="images" data-retina="images/logo/01@2x.png"></a>
                 </div>
                 <div class="content-menu d-flex align-items-center justify-content-end">
