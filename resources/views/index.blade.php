@@ -25,13 +25,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="1000" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1000"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">IT services built</div>
 
                     <div class="tp-caption tp-resizeme text-white text-two"
@@ -43,13 +43,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="1600" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1600"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">Specifically for<br> your business.</div>
 
                     <div class="tp-caption tp-resizeme text-white btn-three"
@@ -61,13 +61,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="2200" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="2200"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">Let us provide the support you deserve.</div>
 
                     <div class="tp-caption btn-text btn-linear hv-linear-gradient"
@@ -77,13 +77,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="2800" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="2800"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">
                         <a href="#" class="all-solution font-style linear-color border-corner">All Solution<span class="icon-arrow-pointing-to-right"></span></a>
                         <a href="#" class="see-video">See live video</a>
@@ -107,13 +107,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="1000" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1000"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">IT services built</div>
 
                     <div class="tp-caption tp-resizeme text-white text-two"
@@ -125,13 +125,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                     data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="1600" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="1600"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">Specifically for<br> your business.</div>
 
                     <div class="tp-caption tp-resizeme text-white btn-three"
@@ -143,13 +143,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="2200" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="2200"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">Let us provide the support you deserve.</div>
 
                     <div class="tp-caption btn-text btn-linear hv-linear-gradient"
@@ -159,13 +159,13 @@
                     data-height="none"
                     data-whitespace="normal"
                     data-transform_idle="o:1;"
-                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
-                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
-                    data-mask_in="x:0px;y:[100%];" 
-                    data-mask_out="x:inherit;y:inherit;" 
-                    data-start="2800" 
-                    data-splitin="none" 
-                    data-splitout="none" 
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
+                    data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
+                    data-mask_in="x:0px;y:[100%];"
+                    data-mask_out="x:inherit;y:inherit;"
+                    data-start="2800"
+                    data-splitin="none"
+                    data-splitout="none"
                     data-responsive_offset="on">
                         <a href="#" class="all-solution font-style linear-color border-corner">All Solution<span class="icon-arrow-pointing-to-right"></span></a>
                         <a href="#" class="see-video">See live video</a>
@@ -243,7 +243,7 @@
                         From cutting-edge solutions to seamless integration, our Tech Packs empower businesses to thrive in the digital realm with confidence. Boost efficiency and stay ahead of the curve with our versatile Tech Packs, your key to digital success.
                     </p>
                 </div>
-            </div>      
+            </div>
         </div>
     </div>
 </section><!-- who-we-are -->
@@ -409,7 +409,7 @@
                         <img src="images/partners/03.png" alt="images">
                         <img src="images/partners/04.png" alt="images">
                         <img src="images/partners/05.png" alt="images">
-                        <img src="images/partners/06.png" alt="images">                        
+                        <img src="images/partners/06.png" alt="images">
                     </div>
                 </div>
             </div>
@@ -542,7 +542,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-12">
-                <form id="contactform" action="#" method="post" class="form-git2 form-submit">
+                <form id="contactform" action="" method="post" class="form-git2 form-submit">
                     <h3 class="title text-center">Get in touch We'll help your business</h3>
                     <div class="text-wrap">
                         <div class="has-icon position-relative">
