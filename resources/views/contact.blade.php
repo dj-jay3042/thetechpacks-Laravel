@@ -33,10 +33,10 @@
                 </div>
             </div>
             <div class="col-lg-7">
-                <form id="contactform" action="./contact/contact-process.php" method="post" class="form-leave-comment form-submit">
+                <form id="contactform" action="/contact/submit" method="GET" class="form-leave-comment form-submit">
                     <div class="text-wrap d-md-flex clearfix">
                         <div class="w-left position-relative">
-                            <input type="text" name="firstname" id="firstname" value="" class="firstname" placeholder="Name*">
+                            <input type="text" name="name" id="name" value="" class="name" placeholder="Name*">
                             <span class="icon-user"></span>
                         </div>
                         <div class="w-right position-relative">
@@ -44,10 +44,13 @@
                             <span class="fa fa-envelope" aria-hidden="true"></span>
                         </div>
                     </div>
+                    <div class="text-wrap mg-b40">
+                        <input type="text" name="subject" id="comment-subject" placeholder="Subject" required="required">
+                    </div>
                     <div class="message-wrap mg-b50">
                         <textarea name="message" id="comment-message" rows="8" placeholder="Message here" required="required"></textarea>
                     </div>
-                    <div class="flat-send-message btn-linear hv-linear-gradient text-center">
+                    <div class="flat-send-message btn-linear hv-linear-gradient text-center mg-b50">
                         <button name="submit" type="submit" class="submit font-style linear-color border-corner" id="submit">send message now</button>
                     </div>
                 </form>
@@ -55,9 +58,4 @@
         </div>
     </div>
 </div><!-- contact -->
-<div class="flat-map-type1">
-    <div class="container">
-        <div class="flat-map"></div>
-    </div>
-</div><!-- flat-map -->
 @endsection

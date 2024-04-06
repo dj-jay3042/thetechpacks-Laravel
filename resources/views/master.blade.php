@@ -15,22 +15,22 @@
     <meta name="description" content="Elevate your business with bespoke IT solutions from The Teck Packs. Our expert team crafts cutting-edge software, robust infrastructure, and seamless digital experiences tailored to your needs. Partner with us to unlock the full potential of technology.">
 
     <!-- Bootstrap-->
-    <link rel="stylesheet" href="stylesheet/bootstrap.css">
+    <link rel="stylesheet" href="/stylesheet/bootstrap.css">
 
     <!-- Template Style-->
-    <link rel="stylesheet" href="stylesheet/font-awesome.css">
-    <link rel="stylesheet" href="stylesheet/owl.theme.default.min.css">
-    <link rel="stylesheet" href="stylesheet/owl.carousel.min.css">
-    <link rel="stylesheet" href="stylesheet/animate.css">
-    <link rel="stylesheet" href="stylesheet/icomoon.css">
-    <link rel="stylesheet" href="stylesheet/jquery-fancybox.css">
-    <link rel="stylesheet" href="stylesheet/style.css">
-    <link rel="stylesheet" href="stylesheet/shortcodes.css">
-    <link rel="stylesheet" href="stylesheet/responsive.css">
-    <link rel="stylesheet" href="stylesheet/flexslider.css">
-    <link rel="stylesheet" href="rev-slider/css/layers.css">
-    <link rel="stylesheet" href="rev-slider/css/navigation.css">
-    <link rel="stylesheet" href="rev-slider/css/settings.css">
+    <link rel="stylesheet" href="/stylesheet/font-awesome.css">
+    <link rel="stylesheet" href="/stylesheet/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/stylesheet/owl.carousel.min.css">
+    <link rel="stylesheet" href="/stylesheet/animate.css">
+    <link rel="stylesheet" href="/stylesheet/icomoon.css">
+    <link rel="stylesheet" href="/stylesheet/jquery-fancybox.css">
+    <link rel="stylesheet" href="/stylesheet/style.css">
+    <link rel="stylesheet" href="/stylesheet/shortcodes.css">
+    <link rel="stylesheet" href="/stylesheet/responsive.css">
+    <link rel="stylesheet" href="/stylesheet/flexslider.css">
+    <link rel="stylesheet" href="/rev-slider/css/layers.css">
+    <link rel="stylesheet" href="/rev-slider/css/navigation.css">
+    <link rel="stylesheet" href="/rev-slider/css/settings.css">
 
     <link href="/favicon.png" rel="icon" type="image/png">
 </head>
@@ -48,18 +48,6 @@
                         <li class="email"><a href="https://mail.google.com/mail/u/0/?fs=1&to=info@thetechpacks.com&tf=cm" title="Email">info@thetechpacks.com</a></li>
                     </ul>
                 </div>
-                <div class="col-md-4 col-12 d-flex justify-content-md-end justify-content-center">
-                    <div id="quik-search-btn" class="show-search">
-                        <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
-                    </div>
-                    <div class="dlab-quik-search">
-                        <form action="#">
-                            <input name="search" value="" type="text" class="form-control"
-                                placeholder="Type to search">
-                            <span id="quik-search-remove"><i class="fa fa-times" aria-hidden="true"></i></span>
-                        </form>
-                    </div>
-                </div>
             </div>
         </div>
     </div><!-- top-bar -->
@@ -67,8 +55,8 @@
         <div class="container">
             <div class="flex-header d-flex">
                 <div id="logo" class="logo d-flex align-items-center justify-content-start">
-                    <a href="/" title="Logo"><img src="images/logo/logo.png" data-width="168" data-height="38"
-                            alt="images" data-retina="images/logo/01@2x.png"></a>
+                    <a href="/" title="Logo"><img src="/images/logo/logo.png" data-width="168" data-height="38"
+                            alt="images" data-retina="/images/logo/logo.png"></a>
                 </div>
                 <div class="content-menu d-flex align-items-center justify-content-end">
                     <div class="nav-wrap">
@@ -110,10 +98,9 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="widget-text">
-                            <div class="logo"><img src="images/logo/02.png" alt="images"></div>
+                            <div class="logo"><img src="/images/logo/logo-light.png" alt="images"></div>
                             <p>
-                                Ut enim ad minim veniam, quis nostrud commodo consequat. Duis aute irure proident, sunt
-                                in culpa.
+                                Empowering Innovation, Fuelling Progress: The Teck Packs - Your IT Partner.
                             </p>
                             <div class="socials-list">
                                 <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -192,8 +179,8 @@
             <div class="container">
                 <div class="bottom-wrap text-center">
                     <div id="copyright">
-                        <a href="/">Copyright © {{ date("Y") }} The Tech Packs.</a><span class="license"> All Rights Reserved</span><br>
-                        <span class="license">Designed & Developed By</span><a href="https://www.dj-jay.in"> Jay Chauhan</a>
+                        <span class="license">Designed & Developed By</span><a href="https://www.dj-jay.in"> Jay Chauhan <br> </a>
+                        <a href="/">Copyright © {{ date("Y") }} The Tech Packs.</a><span class="license"> All Rights Reserved</span>
                     </div>
                 </div>
             </div>
@@ -201,37 +188,37 @@
         <a id="scroll-top" class="show"></a>
     </footer><!-- footer -->
 
-    <script src="javascript/jquery.min.js"></script>
-    <script src="javascript/parallax.js"></script>
-    <script src="javascript/plugins.js"></script>
-    <script src="javascript/jquery-ui.js"></script>
-    <script src="javascript/gmap3.min.js"></script>
+    <script src="/javascript/jquery.min.js"></script>
+    <script src="/javascript/parallax.js"></script>
+    <script src="/javascript/plugins.js"></script>
+    <script src="/javascript/jquery-ui.js"></script>
+    <script src="/javascript/gmap3.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOvgMzMavm0loFdwqNrzzVh42X_-lDZ3w"></script>
-    <script src="javascript/jquery-isotope.js"></script>
-    <script src="javascript/owl.carousel.min.js"></script>
-    <script src="javascript/equalize.min.js"></script>
-    <script src="javascript/jquery-fancybox.js"></script>
-    <script src="javascript/jquery-countTo.js"></script>
-    <script src="javascript/flex-slider.min.js"></script>
-    <script src="javascript/wow.min.js"></script>
-    <script src="javascript/jquery-validate.js"></script>
-    <script src="javascript/main.js"></script>
+    <script src="/javascript/jquery-isotope.js"></script>
+    <script src="/javascript/owl.carousel.min.js"></script>
+    <script src="/javascript/equalize.min.js"></script>
+    <script src="/javascript/jquery-fancybox.js"></script>
+    <script src="/javascript/jquery-countTo.js"></script>
+    <script src="/javascript/flex-slider.min.js"></script>
+    <script src="/javascript/wow.min.js"></script>
+    <script src="/javascript/jquery-validate.js"></script>
+    <script src="/javascript/main.js"></script>
 
     <!-- slider -->
-    <script src="rev-slider/js/jquery.themepunch.tools.min.js"></script>
-    <script src="rev-slider/js/jquery.themepunch.revolution.min.js"></script>
-    <script src="javascript/rev-slider.js"></script>
+    <script src="/rev-slider/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/rev-slider/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="/javascript/rev-slider.js"></script>
 
     <!-- Load Extensions only on Local File Systems ! The following part can be removed on Server for On Demand Loading -->
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.actions.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.carousel.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.kenburn.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.layeranimation.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.migration.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.navigation.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.parallax.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.slideanims.min.js"></script>
-    <script src="rev-slider/js/extensions/extensionsrevolution.extension.video.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.actions.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.carousel.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.kenburn.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.layeranimation.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.migration.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.navigation.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.parallax.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.slideanims.min.js"></script>
+    <script src="/rev-slider/js/extensions/extensionsrevolution.extension.video.min.js"></script>
 </body>
 
 </html>
